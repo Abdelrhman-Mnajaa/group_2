@@ -1,6 +1,7 @@
 // idrees 
 
 function tellFortune(){
+<<<<<<< HEAD
     const numberOfChildren = 3 ;
     const partnerName = "sarah" ;
     const geographicLocation = "japan" ;
@@ -9,3 +10,20 @@ function tellFortune(){
 }
 
 tellFortune();
+=======
+    
+}
+
+function tellFortune(){
+    return "Hello";
+}
+
+
+
+
+
+// ahmed 
+function task_1(){
+    console.log("Task 1")
+}
+>>>>>>> b08590a68bccb8711fe9086ca91f5c78061fe753
