@@ -5,10 +5,10 @@ function tellFortune(){
 }
 
 function tellFortune(){
-    
+    return "Hello";
 }
 
-// fun
+
 
 
 
