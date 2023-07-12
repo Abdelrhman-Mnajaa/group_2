@@ -3,3 +3,11 @@
 function tellFortune(){
     
 }
+
+function tellFortune(){
+    
+}
+
+// fun
+
+
