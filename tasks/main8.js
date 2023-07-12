@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+//idrees
+
+/*
+let n = prompt("Please enter two numbers, ex (number, number)");
+n = n.split(",").map(Number);
+
+function multiply(){
+    x = n[0] * n[1];
+    console.log(x + " is the multiply of " + n[0] + ", " + n[1]);
+}
+multiply();
+*/
+
+=======
 //AHMED
 /*
 Write a function called multiply that:
@@ -16,3 +31,4 @@ let y = Number(prompt("Eeber :"))
 let j = Number(prompt("Eeber :"))
 console.log(double1(y,j))
 */
+>>>>>>> b0f98440d71a52c571a4b567f0975480fbd2b4e8

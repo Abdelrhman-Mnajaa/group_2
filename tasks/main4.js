@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+//idrees
+
+/*
+let firsName = prompt("Please enter your name");
+function greet(){
+    console.log("Hello " + firsName)
+}
+greet();
+*/
+=======
 
 //ahmed
 /*
@@ -14,3 +25,4 @@ function greet(name) {
 }
 let named= prompt("Enter your name :");
 greet(named);   
+>>>>>>> b0f98440d71a52c571a4b567f0975480fbd2b4e8

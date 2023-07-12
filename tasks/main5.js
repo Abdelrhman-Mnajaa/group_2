@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+//idrees
+
+/*
+5
+what is the error:
+function double(cat) {
+  return 2 * x;
+}
+must make the return for the cat not the x
+function double(7) {
+  return 2 * 7;
+}
+u can't use numbers in parameters
+function double('7') {
+  return 2 * 'x';
+}
+u can't use '' in parameters
+*/
+=======
 // AHMED 
 
 //what is the error:
@@ -13,3 +33,4 @@ function double('7') {
   return 2 * 'x'; //  parameters should be valid variable names, without quotes around them
 }
 //*/`)
+>>>>>>> b0f98440d71a52c571a4b567f0975480fbd2b4e8

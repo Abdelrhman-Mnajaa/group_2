@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+//idrees
+
+/*
+let n = prompt("Please enter your age and the ammount of every day, ex (age, ammount)");
+n = n.split(",").map(Number);
+
+function calculateSupply(){
+    n[0] = (100 - n[0]) * 365 * n[1];
+    console.log("You will need " + n[0] + " ammount to last you until the ripe old age of 100")
+}
+calculateSupply();
+*/
+=======
 // ahmed 
 
 /*
@@ -20,3 +34,4 @@ let age1= Number(prompt("Enter your age :"))
 let amountPerDay1=Number( prompt ("enter daily consumption:"))
 
 calculateSupply(age1, amountPerDay1)
+>>>>>>> b0f98440d71a52c571a4b567f0975480fbd2b4e8
