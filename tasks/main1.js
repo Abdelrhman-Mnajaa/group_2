@@ -10,3 +10,27 @@ function tellFortune(){
 tellFortune();
 */
 
+<<<<<<< HEAD
+=======
+function tellFortune(){
+    return "Hello";
+}
+
+
+
+
+
+// ahmed 
+<<<<<<< HEAD
+/*
+function tellFortune(jobTitle, Location, partnerName, numberOfChildren) {
+    console.log("You will be a " + jobTitle + " in " + Location + ", and married to " + partnerName + " with " + numberOfChildren + " kids.");
+  }
+*/
+=======
+function task_1(){
+    console.log("Task 1")
+}
+>>>>>>> b08590a68bccb8711fe9086ca91f5c78061fe753
+>>>>>>> 6a7450cf9db525f1648967daa4d93a736dd0c0c9
+>>>>>>> b0f98440d71a52c571a4b567f0975480fbd2b4e8
