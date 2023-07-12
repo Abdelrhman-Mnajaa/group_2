@@ -14,5 +14,5 @@ function tellFortune(){
 
 // ahmed 
 function task_1(){
-
+    console.log("Task 1")
 }
