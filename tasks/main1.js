@@ -1,0 +1,5 @@
+// idrees 
+
+function tellFortune(){
+    
+}
