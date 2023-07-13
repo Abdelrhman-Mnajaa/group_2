@@ -1,11 +1,11 @@
 //idrees
 
 /*
-let n = prompt("Please enter two words, ex (word , word)");
-n = n.split(",")
+let n = prompt("Please enter the firs word.");
+let x = prompt("Please enter the second word.");
 
 function sameLength(){
-    if(n[0].length = n[1].length){
+    if(n.length = x.length){
         console.log("true");
     }
     else{
@@ -14,3 +14,4 @@ function sameLength(){
 }
 sameLength();
 */
+
