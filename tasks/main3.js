@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //idrees
 
 /*
@@ -11,7 +10,6 @@ function calculateSupply(){
 }
 calculateSupply();
 */
-=======
 // ahmed 
 
 /*
@@ -34,4 +32,3 @@ let age1= Number(prompt("Enter your age :"))
 let amountPerDay1=Number( prompt ("enter daily consumption:"))
 
 calculateSupply(age1, amountPerDay1)
->>>>>>> b0f98440d71a52c571a4b567f0975480fbd2b4e8

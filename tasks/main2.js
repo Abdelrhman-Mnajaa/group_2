@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // idrees 
 
 /*
@@ -11,7 +10,6 @@ function calculateDogAge(){
 
 calculateDogAge();
 */
-=======
 //ahmed
 
 /*
@@ -33,4 +31,3 @@ function calculateDogAge(puppyAge) {
   calculateDogAge(x);
  */
     
->>>>>>> b0f98440d71a52c571a4b567f0975480fbd2b4e8

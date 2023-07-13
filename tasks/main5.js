@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //idrees
 
 /*
@@ -17,7 +16,6 @@ function double('7') {
 }
 u can't use '' in parameters
 */
-=======
 // AHMED 
 
 //what is the error:
@@ -33,4 +31,3 @@ function double('7') {
   return 2 * 'x'; //  parameters should be valid variable names, without quotes around them
 }
 //*/`)
->>>>>>> b0f98440d71a52c571a4b567f0975480fbd2b4e8

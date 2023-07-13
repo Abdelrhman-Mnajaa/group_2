@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //idrees
 
 /*
@@ -12,7 +11,6 @@ function multiply(){
 multiply();
 */
 
-=======
 //AHMED
 /*
 Write a function called multiply that:
@@ -31,4 +29,3 @@ let y = Number(prompt("Eeber :"))
 let j = Number(prompt("Eeber :"))
 console.log(double1(y,j))
 */
->>>>>>> b0f98440d71a52c571a4b567f0975480fbd2b4e8
