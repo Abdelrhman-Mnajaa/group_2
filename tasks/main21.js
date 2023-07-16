@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // 21
 // Write a function called randomBetweenNumbers
 // that takes 2 parameters
@@ -15,3 +16,15 @@ function randomBetweenNumbers(min, max) {
     console.log(rndInt)
     
     
+=======
+// idrees
+
+/*
+function randomBetweenNumbers(){
+    let min = parseFloat(prompt("Enter the min number:"));
+    let max = parseFloat(prompt("Enter the max number:"));
+    console.log(Math.random() * (max - min) + min);   
+}
+randomBetweenNumbers();
+*/
+>>>>>>> e7d877a4a80c70fa3d8d6128cf071d42002dfc67
